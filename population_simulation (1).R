@@ -15,3 +15,5 @@ sd( sim1 )
 
 ## Problem: Reduce sample size and show how the parameters change. Do cool plots.
 ## You are free to choose which plots you want to make. Take into account the true value of the parameters when working with this data set.
+
+#completed
